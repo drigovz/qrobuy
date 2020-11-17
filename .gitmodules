@@ -1,0 +1,6 @@
+[submodule "qrobuy-backend"]
+	path = qrobuy-backend
+	url = https://github.com/Nicholas-ar/qrobuy-backend.git
+[submodule "qrobuy-frontend"]
+	path = qrobuy-frontend
+	url = https://github.com/pleonardodp12/qrobuy-frontend.git
